@@ -30,6 +30,7 @@ Insights into alumni engagement metrics (e.g., event participation, profile comp
 Tools to generate reports on alumni demographics and career paths.
 
 Future Enhancements:
-Integration with LinkedIn for real-time career updates.
-Mobile application for on-the-go access.
-AI-based recommendations for networking and mentorship.
+
+1.Integration with LinkedIn for real-time career updates.
+2.Mobile application for on-the-go access.
+3.AI-based recommendations for networking and mentorship.
